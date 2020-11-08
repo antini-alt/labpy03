@@ -1,5 +1,6 @@
 # program 1
 
+
 print("Tugas pertemuan 7 - pratikum 3 - program 1 \n")
 
 modalawal = 100000000
@@ -23,8 +24,8 @@ for bulan in range(1, 9, 1):
 
     if bulan == 8:
         laba8 = modalawal * 0.03
-        print(f"Laba bulan ke {bulan} : {lab8}")
+        print(f"Laba bulan ke {bulan} : {laba8}")
 
-totallaba = laba12+laba12+laba34+lsba34+laba567+laba567+laba567+laba8
+totallaba = laba12+laba12+laba34+laba34+laba567+laba567+laba567+laba8
 
 print(f"\nTotal laba adalah : {totallaba}")
