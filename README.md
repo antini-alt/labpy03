@@ -34,4 +34,25 @@ fungsi random() akan menghasilkan angka yang memiliki tipe data float dan berada
 uniform sendiri berfungsi untuk menampilkan bilangan float random dengan batas awal bilangan dan batas akhir.
 
 
+* **Latihan 2**
+
+Pada latihan ke-2 ini Dosen memberikan tugas untuk menampilkan bilangan terbesar dari (n). <br>
+![Tugas_Latihan2](picture/Tugas_latihan2.PNG)
+
+
+pada tugas ini saya menggunakan source code :
+```python
+print("Tugas pertemuan 7 - pratikum 3 - Latihan 2")
+
+yangka=0
+while True:
+        xbilangan = int(input("Masukkkan Bilangan : "))
+        if (yangka < xbilangan):
+            yangka=xbilangan
+        if (xbilangan == 0):
+            break
+
+print("Bilangan terbesar adalah : " ,yangka)
+print()
+```
 
