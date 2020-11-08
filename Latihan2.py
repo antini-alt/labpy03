@@ -7,7 +7,7 @@ while True:
         xbilangan = int(input("Masukkkan Bilangan : "))
         if (yangka < xbilangan):
             yangka=xbilangan
-        if (ybilangan == 0):
+        if (xbilangan == 0):
             break
 
 print("Bilangan terbesar adalah : " ,yangka)
