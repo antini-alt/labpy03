@@ -114,3 +114,4 @@ pada setiap bulannya pengusaha mengalami penurunan dan kenaikan keuntungan / lab
 
 ========= ***Antini permatasari*** =========
 =============== ***312010095***=============
+=============== ***Thank you*** ============
